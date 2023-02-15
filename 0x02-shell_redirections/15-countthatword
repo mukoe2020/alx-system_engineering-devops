@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 egrep -l "bin" /etc/passwd | wc -l
-=======
-grep -l "bin" /etc/passwd | wc -l
->>>>>>> 3f6d53666a0686ec3fd0967d8ac23b61cfaca19d
