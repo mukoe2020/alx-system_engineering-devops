@@ -7,7 +7,7 @@ hour=0
 
 while [ $hour -le 12 ]
 do 
-	echo "Shour:$hour"
+	echo "Shour: $hour"
 
 	minute=1
 
