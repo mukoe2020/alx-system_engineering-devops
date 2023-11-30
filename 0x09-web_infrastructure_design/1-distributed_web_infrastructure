@@ -1,3 +1,4 @@
+https://imgur.com/a/Bqdl9tL
 
 1. Additional Elements in the Infrastructure:
 - Load Balancer (HAproxy): We add a load balancer to distribute incoming traffic across the application servers. This helps improve performance, scalability, and fault tolerance by evenly distributing the load among multiple servers.
