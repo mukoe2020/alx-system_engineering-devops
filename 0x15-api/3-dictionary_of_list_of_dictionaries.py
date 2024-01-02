@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Converts the task list information for all 
+"""Converts the task list information for all
 employees into JSON format for export.
 """
 import json
